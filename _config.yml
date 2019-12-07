@@ -13,7 +13,7 @@ title: FEEL KAIST
 subtitle: "Future Electrical Engineering Leaders"
 email: feelcampofficial@gmail.com
 name: Gyujun Jeong
-description: 제작 중입니다
+description: Gyujun Jeong
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -84,7 +84,7 @@ social:
 
   - name: Facebook
     icon: facebook
-    username: FEEL
+    username: FEELcampofficial
     url: "https://www.facebook.com/FEELcampofficial/"
     desc: Friend me on Facebook
     share: true
