@@ -19,7 +19,7 @@ description: 제작 중입니다
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-cover: "/assets/circuit.jpg"
+cover: "/assets/elsa.jpg"
 logo: "/assets/logo.PNG"
 
 # Build settings
