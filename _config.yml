@@ -77,8 +77,8 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: 
-    url: 
+    username: ""
+    url: ""
     desc: Follow me on Twitter
     share: true
 
@@ -91,15 +91,15 @@ social:
 
   - name: GitHub
     icon: github
-    username: 
-    url: 
+    username: ""
+    url: ""
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: 
-    url: 
+    username: ""
+    url: ""
     desc: Connect with me on LinkedIn
     share: true
 
